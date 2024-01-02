@@ -1,0 +1,750 @@
+body {
+    margin: 0px;
+}
+
+.first {
+    background-image: url('/images/jack-anstey-XVoyX7l9ocY-unsplash.jpg');
+    background-size: cover;
+    color:  whitesmoke;
+    padding-bottom: 100px;
+    font-family: 'Young Serif', serif;
+}
+
+.container1 {
+    display: flex;
+    justify-content: end;
+    margin-right: 55px;
+    padding: 84px;
+}
+
+.a1 {
+    padding: 14px;
+    font-family: 'Young Serif', serif;
+
+}
+
+main {
+    width: 453px;
+    padding-left: 157px;
+    margin-top: 100px;
+    background-color:  rgba(28,22,26,0.7);
+}
+
+.a2 {
+    padding: 4px;
+    font-size: 47px;
+}
+
+.a3 {
+    background-color: rgba(20, 105, 20,0.5);
+    padding: 13px;
+    margin-right: 234px;
+}
+
+                        /* SECTION 1 END */
+
+/* SECTION 2 STARTS FROM HERE */
+
+.second {
+    font-family: 'Young Serif', serif;
+    /* background-color: #57673e; */
+    background-image: linear-gradient(to right, #57673e, #8f9e5b, #bab897, #777a4c );
+}
+
+.container2 {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.child3 {
+    width:  500px;
+    margin: auto;
+    /* background-color:#57673e; */
+    padding: 100px;
+}
+
+.b1 {
+    font-size: 45px;
+}
+
+.b2 {
+    
+    /* padding-top: 50px; */
+    /* margin-left: 93px; */
+    margin: 50px;
+    background-image: linear-gradient (to right, #8d929d,#545a65);
+    background-color: #777a4c;
+    text-align: center;
+}
+
+.child4 {
+    padding: 70px;
+    /* background-color:rgba(140,111,87,0.5); */
+}
+
+#i1 {
+    width: 500px;
+    height: 600px;
+}
+
+                        /* SECTION 2 END */
+
+
+/* SECTION 3 STARTS */
+
+.third {
+    background-image: url('/images/anton-repponen-zNxlvCZhHNA-unsplash.jpg');
+    background-size: cover;
+    color:  whitesmoke;
+    padding-bottom: 100px;
+    font-family: 'Young Serif', serif;
+
+}
+
+.c1 {
+    width: 142px;
+    margin: auto;
+    padding: 130px;
+    padding-bottom: 58px;
+}
+
+.box1 {
+    width: 787px;
+    margin: auto;
+    text-align: center;
+
+}
+
+.container3 {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+}
+
+.child5 {
+    width: 1265px;
+    margin-left: 50px;
+    border: 4px solid black;
+    text-align: center;
+    background-color:  rgba(28,22,26,0.7);
+}
+
+.child6 {
+    width: 1265px;
+    margin-left: 50px;
+    border: 4px solid black;
+    text-align: center;
+    background-color:  rgba(28,22,26,0.5); 
+}
+
+.child7 {
+    width: 1265px;
+    margin-left: 50px;
+    border: 4px solid black;
+    text-align: center;
+    background-color:  rgba(28,22,26,0.5);
+}
+
+.child8 {
+    width: 1265px;
+    margin-left: 50px;
+    border: 4px solid black;
+    text-align: center;
+    background-color:  rgba(28,22,26,0.7);
+    margin-right: 50px;
+}
+
+                        /* SECTION 3 END */
+
+
+/* SECTION 4 START */
+
+.four {
+    background-image: linear-gradient(to left, #0f3c68,#2d6380,#317a9e, #6da9c3,#c3d1de, #FFFFFF );
+    color:  black;
+    padding-bottom: 100px;
+    font-family: 'Young Serif', serif;
+}
+
+.top1 {
+    width: 484px;
+    margin: auto;
+    padding: 42px 0px 0px;
+    text-align: center;
+    
+}
+
+.contaner4 {
+    display: grid;
+}
+
+.child9 {
+    display: flex;
+    /* justify-content: left; */
+    padding-left: 10px;
+    
+}
+
+.child10 {
+    display: flex;
+    /* justify-content:left; */
+    padding-left: 10px;
+}
+
+.child11 {
+    display: flex;
+    /* justify-content: left; */
+    padding-left: 10px;
+}
+
+.coe {
+    margin-left: 60px;
+}
+
+h3,h4 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#four2, #four3, #four4 {
+    margin-left: 20px;
+    margin-top: 0px;
+
+}
+
+.container41 {
+    display: flex;
+    justify-content: space-between;
+    width: 325px;
+}
+
+footer {
+    background-image:linear-gradient(to left,#c3d1de,#317a9e, #FFFFFF);
+    /* margin-top: 0px !important;  */
+    margin-bottom: 0px;
+    font-size: 10px;
+    padding: 15px;
+    text-align: center;
+    font-family: 'Young Serif', serif;
+}
+
+.f1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+@media screen and (max-width: 480px) {
+    .first {
+        background-image: url('/images/jack-anstey-XVoyX7l9ocY-unsplash.jpg');
+        background-size: cover;
+        color:  whitesmoke;
+        padding-bottom: 100px;
+        font-family: 'Young Serif', serif;
+    }
+    
+    .container1 {
+        display: flex;
+    justify-content: end;
+    margin-right: 0px;
+    padding: 5px;
+    padding-top: 40px;
+    margin-left: 25px;
+
+    }
+    
+    .a1 {
+        padding: 14px;
+        font-family: 'Young Serif', serif;
+    
+    }
+    
+    main {
+        width: 92%;
+        padding-left: 19px;
+        margin-top: 100px;
+        background-color: rgba(28,22,26,0.7);
+    }
+    
+    .a2 {
+        padding: 4px;
+        font-size: 45px;
+    }
+    
+    .a3 {
+        background-color: rgba(20, 105, 20,0.5);
+        padding: 13px;
+        margin-right: 234px;
+    }
+    
+                            /* SECTION 1 END */
+    
+    /* SECTION 2 STARTS FROM HERE */
+    
+    .second {
+        font-family: 'Young Serif', serif;
+        /* background-color: #57673e; */
+        background-image: linear-gradient(to right, #57673e, #8f9e5b, #bab897, #777a4c );
+    }
+    
+    .container2 {
+        display:block;
+        justify-content: space-evenly;
+        
+    }
+    
+    .child3 {
+        width: 70%;
+        margin: auto;
+        /* background-color: #57673e; */
+        padding: 55px;
+    }
+    
+    .b1 {
+        font-size: 20px;
+    }
+    
+    .b2 {
+        
+        /* padding-top: 50px; */
+        /* margin-left: 93px; */
+        margin: 50px;
+        background-image: linear-gradient (to right, #8d929d,#545a65);
+        background-color: #777a4c;
+        text-align: center;
+    }
+    
+    .child4 {
+        padding: 35px;
+        /* background-color:rgba(140,111,87,0.5); */
+    }
+
+    #i1 {
+        width: 320px;
+        height: 540px;
+    }
+    
+                            /* SECTION 2 END */
+    
+    
+    /* SECTION 3 STARTS */
+    
+    .third {
+        background-image: url('/images/anton-repponen-zNxlvCZhHNA-unsplash.jpg');
+        background-size: cover;
+        color:  whitesmoke;
+        padding-bottom: 100px;
+        font-family: 'Young Serif', serif;
+    
+    }
+    
+    .c1 {
+        width: 44%;
+        margin: auto;
+        padding: 70px;
+        padding-bottom: 30px;
+    }
+    
+    .box1 {
+        width: 50%;
+        margin: auto;
+        text-align: center;
+    
+    }
+    
+    .container3 {
+        display:flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        padding-top: 50px;
+    }
+    
+    .child5 {
+        width: 75%;
+        margin-left: 50px;
+        border: 4px solid black;
+        text-align: center;
+        background-color: rgba(28,22,26,0.7);
+        margin-top: 10px;
+    
+    }
+    
+    .child6 {
+        width: 75%;
+        margin-left: 50px;
+        border: 4px solid black;
+        text-align: center;
+        background-color: rgba(28,22,26,0.7);
+        margin-top: 10px;
+    }
+    
+    
+    .child7 {
+        width: 75%;
+        margin-left: 50px;
+        border: 4px solid black;
+        text-align: center;
+        background-color: rgba(28,22,26,0.7);
+        margin-top: 10px;
+    
+    }
+    
+    .child8 {
+        width: 75%;
+        margin-left: 50px;
+        border: 4px solid black;
+        text-align: center;
+        background-color: rgba(28,22,26,0.7);
+        margin-top: 10px;
+    }
+    
+                            /* SECTION 3 END */
+    
+    
+    /* SECTION 4 START */
+    
+    .four {
+        background-image: linear-gradient(to left, #0f3c68,#2d6380,#317a9e, #6da9c3,#c3d1de, #FFFFFF );
+        color:  black;
+        padding-bottom: 100px;
+        font-family: 'Young Serif', serif;
+    }
+    
+    .top1 {
+        width: 85%;
+        margin: auto;
+        padding: 42px 0px 0px;
+        text-align: center;
+        
+    }
+    
+    .contaner4 {
+        display: grid;
+    }
+    
+    .child9 {
+        display: flex;
+        /* justify-content: left; */
+        padding-left: 10px;
+        
+    }
+    
+    .child10 {
+        display: flex;
+        /* justify-content:left; */
+        padding-left: 10px;
+    }
+    
+    .child11 {
+        display: flex;
+        /* justify-content: left; */
+        padding-left: 10px;
+    }
+    
+    .coe {
+        margin-left: 35px;
+    }
+    
+    h3,h4 {
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    
+    #four2, #four3, #four4 {
+        margin-left: 20px;
+        margin-top: 0px;
+    
+    }
+    
+    .container41 {
+        display: flex;
+        justify-content: space-between;
+        width: 325px;
+    }
+    
+    footer {
+        background-image:linear-gradient(to left,#c3d1de,#317a9e, #FFFFFF);
+        /* margin-top: 0px !important;  */
+        margin-bottom: 0px;
+        font-size: 10px;
+        padding: 15px;
+        text-align: center;
+        font-family: 'Young Serif', serif;
+    }
+    
+    .f1 {
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    
+    
+
+}
+
+
+@media (min-width: 481px) and (max-width: 768px) { 
+        
+    .first {
+        background-image: url('/images/jack-anstey-XVoyX7l9ocY-unsplash.jpg');
+        background-size: cover;
+        color:  whitesmoke;
+        padding-bottom: 100px;
+        font-family: 'Young Serif', serif;
+    }
+    
+    .container1 {
+        display: flex;
+    justify-content: end;
+    margin-right: 0px;
+    padding: 5px;
+    padding-top: 40px;
+    margin-left: 25px;
+
+    }
+    
+    .a1 {
+        padding: 14px;
+        font-family: 'Young Serif', serif;
+    
+    }
+    
+    main {
+        width: 58%;
+        padding-left: 55px;
+        margin-top: 100px;
+        background-color: rgba(28,22,26,0.7);
+    }
+
+    #p1 {
+        font-size: 22px;
+    }
+    
+    .a2 {
+        padding: 4px;
+        font-size: 45px;
+    }
+    
+    .a3 {
+        background-color: rgba(20, 105, 20,0.5);
+        padding: 13px;
+        margin-right: 234px;
+    }
+    
+                            /* SECTION 1 END */
+    
+    /* SECTION 2 STARTS FROM HERE */
+    
+    .second {
+        font-family: 'Young Serif', serif;
+        /* background-color: #57673e; */
+        background-image: linear-gradient(to right, #57673e, #8f9e5b, #bab897, #777a4c );
+    }
+    
+    .container2 {
+        display:block;
+        justify-content: space-evenly;
+        
+    }
+    
+    .child3 {
+        width: 70%;
+        margin: auto;
+        /* background-color: #57673e; */
+        padding: 55px;
+    }
+    
+    .b1 {
+        font-size: 30px;
+    }
+
+    ul {
+        font-size: 22px;
+    }
+    
+    .b2 {
+        
+        /* padding-top: 50px; */
+        /* margin-left: 93px; */
+        margin: 50px;
+        background-image: linear-gradient (to right, #8d929d,#545a65);
+        background-color: #777a4c;
+        text-align: center;
+    }
+    
+    .child4 {
+        padding: 35px;
+        /* background-color:rgba(140,111,87,0.5); */
+    }
+
+    #i1 {
+        width: 505px;
+        height: 565px;
+        padding-left: 100px;
+    }
+    
+                            /* SECTION 2 END */
+    
+    
+    /* SECTION 3 STARTS */
+    
+    .third {
+        background-image: url('/images/anton-repponen-zNxlvCZhHNA-unsplash.jpg');
+        background-size: cover;
+        color:  whitesmoke;
+        padding-bottom: 100px;
+        font-family: 'Young Serif', serif;
+    
+    }
+    
+    .c1 {
+        width: 20%;
+        margin: auto;
+        padding: 70px;
+        padding-bottom: 30px;
+    }
+    
+    .box1 {
+        width: 50%;
+        margin: auto;
+        text-align: center;
+    
+    }
+
+    #s1 {
+        font-size: 22px;
+    }
+    
+    .container3 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        padding-top: 50px;
+        padding-left: 100px;
+        font-size: 22px;
+    }
+    
+    .child5 {
+        width: 75%;
+        margin-left: 50px;
+        border: 4px solid black;
+        text-align: center;
+        background-color: rgba(28,22,26,0.7);
+        margin-top: 10px;
+    
+    }
+    
+    .child6 {
+        width: 75%;
+        margin-left: 50px;
+        border: 4px solid black;
+        text-align: center;
+        background-color: rgba(28,22,26,0.7);
+        margin-top: 10px;
+    }
+    
+    
+    .child7 {
+        width: 75%;
+        margin-left: 50px;
+        border: 4px solid black;
+        text-align: center;
+        background-color: rgba(28,22,26,0.7);
+        margin-top: 10px;
+    
+    }
+    
+    .child8 {
+        width: 75%;
+        margin-left: 50px;
+        border: 4px solid black;
+        text-align: center;
+        background-color: rgba(28,22,26,0.7);
+        margin-top: 10px;
+    }
+    
+                            /* SECTION 3 END */
+    
+    
+    /* SECTION 4 START */
+    
+    .four {
+        background-image: linear-gradient(to left, #0f3c68,#2d6380,#317a9e, #6da9c3,#c3d1de, #FFFFFF );
+        color:  black;
+        padding-bottom: 100px;
+        font-family: 'Young Serif', serif;
+    }
+    
+    .top1 {
+        width: 85%;
+        margin: auto;
+        padding: 42px 0px 0px;
+        text-align: center;
+        
+    }
+    
+    .contaner4 {
+        display: grid;
+    }
+    
+    .child9 {
+        display: flex;
+        /* justify-content: left; */
+        padding-left: 10px;
+        
+    }
+    
+    .child10 {
+        display: flex;
+        /* justify-content:left; */
+        padding-left: 10px;
+    }
+    
+    .child11 {
+        display: flex;
+        /* justify-content: left; */
+        padding-left: 10px;
+    }
+    
+    .coe {
+        margin-left: 35px;
+    }
+    
+    h3,h4 {
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    
+    #four2, #four3, #four4 {
+        margin-left: 20px;
+        margin-top: 0px;
+    
+    }
+    
+    .container41 {
+        display: flex;
+        justify-content: space-between;
+        width: 325px;
+    }
+    
+    footer {
+        background-image:linear-gradient(to left,#c3d1de,#317a9e, #FFFFFF);
+        /* margin-top: 0px !important;  */
+        margin-bottom: 0px;
+        font-size: 10px;
+        padding: 15px;
+        text-align: center;
+        font-family: 'Young Serif', serif;
+    }
+    
+    .f1 {
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+} 
+
+
+
+
+
+
